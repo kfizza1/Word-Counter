@@ -1,5 +1,3 @@
-# Word-Counter
-
 # Word Counter 📝
 
 A simple and user-friendly Word Counter web application built with HTML, CSS, and JavaScript. This tool allows users to quickly count words from any text input.
