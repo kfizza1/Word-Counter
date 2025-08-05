@@ -35,4 +35,4 @@ This project is open-source and free to use.
 ## 🙋‍♀️ Author
 
 **Fizza Khan**  
-Follow me on GitHub: [@kfizzal](https://github.com/kfizzal)
+Follow me on GitHub: [@kfizza1](https://github.com/kfizzal)
